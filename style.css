@@ -1,0 +1,49 @@
+body {
+  background-color: #2d2e2e;
+  color:#a4a5a6;
+  font-size: 18px;
+}
+
+#myPhoto {
+  weight: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  color: #e0a80d;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+
+#profession {
+  color: #a4a5a6;
+  text-align: center;
+  margin-top: 0;
+  font-size: 20px;
+}
+header {
+  display: block;
+  border-bottom: 3px solid #a4a5a6;
+}
+#education {
+width: 34%;
+height: 40px;
+display: inline-block;
+}
+.edBox {
+width: 33%;
+height: 40px;
+margin: 0;
+display: inline-block;
+}
+#work {
+ 
+  border:4px solid #e0a80d;
+  width: 30%;
+}
